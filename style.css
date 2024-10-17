@@ -1,0 +1,381 @@
+:root {
+    --primary-color: #3498db;  /* 更鲜明的蓝色 */
+    --secondary-color: #f8f9fa;  /* 更浅的背景色 */
+    --accent-color: #2ecc71;  /* 清新的绿色作为强调色 */
+    --text-color: #2c3e50;  /* 深色文本，提高对比度 */
+    --border-color: #dfe6e9;  /* 柔和的边框色 */
+    --hover-color: #e3f2fd;  /* 淡蓝色悬停效果 */
+    --button-hover-color: #2980b9;  /* 深蓝色按钮悬停颜色 */
+    --base-font-size: 14px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f4f8;
+    color: #333;
+    font-size: 14px; /* 设置基础字体大小 */
+}
+
+#app {
+    display: flex;
+    max-width: 1800px;
+    width: 98%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+#universityList,
+#advancedSearchContainer,
+#universityDetails,
+#subjectRankingContainer {
+    width: 22%;
+    margin-right: 2%;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    height: 900px; /* 将高度到 900px */
+    overflow-y: auto; /* 保留垂直滚动条，以防内容超出 */
+}
+
+#subjectRankingContainer {
+    width: 32%; /* 从30%增加到32% */
+    margin-right: 0;
+}
+
+h2 {
+    color: #1a73e8;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.2em; /* 稍微大一点，相当于 16.8px */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.search-field {
+    margin-bottom: 15px;
+}
+
+.search-field label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 500;
+    font-size: 1em;  /* 使用相对单位 */
+}
+
+input[type="text"],
+input[type="number"],
+select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+select:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+    outline: none;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--button-hover-color);
+    transform: translateY(-2px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#universityRows {
+    max-height: none;
+}
+
+.university-row {
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.university-row:hover {
+    background-color: #e8f0fe;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #e0e0e0;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: var(--secondary-color);
+}
+
+tr:hover {
+    background-color: var(--hover-color);
+}
+
+#universityInfo {
+    font-size: 1em;  /* 使用相对单位 */
+    width: 100%;
+    table-layout: fixed;
+}
+
+#universityInfo th,
+#universityInfo td {
+    padding: 10px;
+    border: 1px solid var(--border-color);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+#universityInfo th {
+    width: 40%;
+    background-color: #f2f6fc;
+    color: var(--text-color);
+    font-weight: 600;
+    border-bottom: 2px solid var(--primary-color);
+}
+
+#universityInfo td {
+    width: 60%;
+}
+
+#universityDetails, #subjectRankingContainer {
+    overflow-y: auto;
+    max-height: 900px; /* 相应地增加最大高度 */
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.button-group button {
+    width: 48%;
+}
+
+.search-link-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.search-link-container a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.search-link-container a:hover {
+    color: var(--button-hover-color);
+    text-decoration: underline;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 600px;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#subjectSearchResults {
+    margin-top: 20px;
+}
+
+/* 保持原有的响应式布局，但调整宽度 */
+@media (max-width: 1400px) {
+    #app {
+        flex-wrap: wrap;
+    }
+    #universityList {
+        width: 48%;
+        margin-right: 2%;
+    }
+    #advancedSearchContainer {
+        width: 48%;
+        margin-right: 0;
+    }
+    #universityDetails,
+    #subjectRankingContainer {
+        width: 49%;
+        margin-right: 2%;
+        margin-bottom: 20px;
+    }
+    #subjectRankingContainer {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 900px) {
+    #universityList,
+    #advancedSearchContainer,
+    #universityDetails,
+    #subjectRankingContainer {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+}
+
+/* 添加一个新的样式来强调某些元素 */
+.accent-text {
+    color: var(--accent-color);
+    font-weight: bold;
+}
+
+/* 添加以下样式来改善表格外观 */
+#universityInfo, #subjectRanking {
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+#universityInfo th, #subjectRanking th {
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: 600;
+    border-bottom: 2px solid var(--primary-color);
+}
+
+#universityInfo td, #subjectRanking td {
+    background-color: white;
+}
+
+#universityInfo tr:nth-child(even) td, #subjectRanking tr:nth-child(even) td {
+    background-color: var(--secondary-color);
+}
+
+/* 统一所有文本元素的字体大小 */
+p, span, div, td, th, input, select, button, label {
+    font-size: 1em; /* 使用相对单位，相当于 14px */
+}
+
+/* 可以为特定元素设置不同的字体大小，但仍然使用相对单位 */
+.small-text {
+    font-size: 0.9em;
+}
+
+.large-text {
+    font-size: 1.1em;
+}
+
+/* 修改 #subjectRanking 相关样式 */
+#subjectRanking {
+    width: 100%;
+    table-layout: fixed;
+    font-size: 0.9em;
+}
+
+#subjectRanking th,
+#subjectRanking td {
+    padding: 6px 4px;
+    white-space: normal; /* 允许文本换行 */
+    word-wrap: break-word; /* 允许长单词换行 */
+    overflow-wrap: break-word;
+    text-overflow: clip; /* 移除省略号 */
+}
+
+#subjectRanking th:nth-child(1),
+#subjectRanking td:nth-child(1) {
+    width: 28%; /* 学科列 */
+}
+
+#subjectRanking th:nth-child(2),
+#subjectRanking td:nth-child(2) {
+    width: 14%; /* 综合排名列 */
+}
+
+#subjectRanking th:nth-child(3),
+#subjectRanking td:nth-child(3) {
+    width: 44%; /* 专业列 */
+}
+
+#subjectRanking th:nth-child(4),
+#subjectRanking td:nth-child(4) {
+    width: 14%; /* 专业排名列 */
+}
+
+/* 移除交替行的背景色 */
+#subjectRanking tr:nth-child(even) {
+    background-color: transparent;
+}
+
+/* 为悬停状态添加背景色 */
+#subjectRanking tr:hover {
+    background-color: var(--hover-color);
+}
+
+/* 改善滚动条样式 */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

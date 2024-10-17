@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>美国大学排名</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <div id="universityList">
+            <h2>大学列表</h2>
+            <div id="simpleSearch">
+                <input type="text" id="searchInput" placeholder="输入大学名称（中文或英文）...">
+                <div id="rankSearch">
+                    <label for="rankFrom">排名范围：</label>
+                    <input type="number" id="rankFrom" placeholder="从" min="1">
+                    <input type="number" id="rankTo" placeholder="到" min="1">
+                </div>
+                <div class="button-group">
+                    <button id="searchButton">搜索</button>
+                    <button id="resetButton">重置</button>
+                </div>
+            </div>
+            <div id="universityRows"></div>
+        </div>
+        <div id="advancedSearchContainer">
+            <h2>高级搜索</h2>
+            <div id="advancedSearch">
+                <div class="search-field">
+                    <label for="acceptanceRate">录取率 (%)：</label>
+                    <input type="number" id="acceptanceRateFrom" placeholder="最低" min="0" max="100">
+                    <input type="number" id="acceptanceRateTo" placeholder="最高" min="0" max="100">
+                </div>
+                <div class="search-field">
+                    <label for="tuition">学费 ($)：</label>
+                    <input type="number" id="tuitionFrom" placeholder="最低">
+                    <input type="number" id="tuitionTo" placeholder="最高">
+                </div>
+                <div class="search-field">
+                    <label for="sat">SAT最低分数：</label>
+                    <input type="number" id="satFrom" placeholder="最低" min="400" max="1600">
+                </div>
+                <div class="search-field">
+                    <label for="act">ACT最低分数：</label>
+                    <input type="number" id="actFrom" placeholder="最低" min="1" max="36">
+                </div>
+                <div class="search-field">
+                    <label for="gpa">高中最低平均绩点：</label>
+                    <input type="number" id="gpaFrom" placeholder="最低" min="0" max="4" step="0.1">
+                </div>
+                <div class="button-group">
+                    <button id="advancedSearchButton">高级搜索</button>
+                    <button id="advancedResetButton">重置</button>
+                </div>
+            </div>
+        </div>
+        <div id="universityDetails">
+            <h2>大学详细信息</h2>
+            <table id="universityInfo">
+                <tbody></tbody>
+            </table>
+        </div>
+        <div id="subjectRankingContainer">
+            <h2>学科和专业排名</h2>
+            <table id="subjectRanking">
+                <thead>
+                    <tr>
+                        <th>学科</th>
+                        <th>综合排名</th>
+                        <th>专业</th>
+                        <th>专业排名</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <div class="search-link-container">
+                <a href="#" id="openSubjectSearchLink">搜索学科和专业排名</a>
+            </div>
+        </div>
+        <div id="subjectSearchModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2>学科和专业排名搜索</h2>
+                <div class="search-field">
+                    <label for="subjectSelect">学科：</label>
+                    <select id="subjectSelect">
+                        <option value="">请选择学科</option>
+                    </select>
+                </div>
+                <div class="search-field">
+                    <label for="specialtySelect">专业：</label>
+                    <select id="specialtySelect" disabled>
+                        <option value="">请先选择学科</option>
+                    </select>
+                </div>
+                <button id="subjectSearchButton">搜索</button>
+                <div id="subjectSearchResults"></div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

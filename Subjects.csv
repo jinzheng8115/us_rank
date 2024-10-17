@@ -1,0 +1,555 @@
+专业排名,综合排名,大学名称（英文）,大学名称（中文）,学科,专业
+-,1,University of Pennsylvania,宾夕法尼亚大学,Business(商科),-
+-,2,Massachusetts Institute of Technology,麻省理工学院,Business(商科),-
+-,2,University of California—Berkeley,加州大学伯克利分校,Business(商科),-
+-,4,University of Michigan—Ann Arbor,密歇根大学安娜堡分校,Business(商科),-
+-,5,New York University,纽约大学,Business(商科),-
+-,6,Carnegie Mellon University,卡内基梅隆大学,Business(商科),-
+-,6,University of North Carolina—Chapel Hill,北卡罗来纳大学教堂山分校,Business(商科),-
+-,6,University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),-
+-,9,Cornell University,康奈尔大学,Business(商科),-
+-,9,Indiana University—Bloomington,印第安纳大学伯明顿分校,Business(商科),-
+-,9,University of Southern California,南加州大学,Business(商科),-
+1,6, University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),Accounting(财务）
+2,14, University of Illinois Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校,Business(商科),Accounting(财务）
+3,40, Brigham Young University,杨百翰大学,Business(商科),Accounting(财务）
+4,9, Indiana University—Bloomington,印第安纳大学伯明顿分校,Business(商科),Accounting(财务）
+5,1, University of Pennsylvania,宾夕法尼亚大学,Business(商科),Accounting(财务）
+6,4, University of Michigan—Ann Arbor,密歇根大学安娜堡分校,Business(商科),Accounting(财务）
+7,12, University of Notre Dame,圣母大学,Business(商科),Accounting(财务）
+8,9, University of Southern California,南加州大学,Business(商科),Accounting(财务）
+9,23, University of Florida,佛罗里达大学,Business(商科),Accounting(财务）
+10,5, New York University,纽约大学,Business(商科),Accounting(财务）
+11,27, Boston College,波士顿学院,Business(商科),Accounting(财务）
+12,14, Ohio State University,俄亥俄州立大学,Business(商科),Accounting(财务）
+1,2,Massachusetts Institute of Technology,麻省理工学院,Business(商科),Analytics（商业分析）
+2,6,Carnegie Mellon University,卡内基梅隆大学,Business(商科),Analytics（商业分析）
+3,18,Georgia Institute of Technology,佐治亚理工学院,Business(商科),Analytics（商业分析）
+4,5,New York University,纽约大学,Business(商科),Analytics（商业分析）
+4,1,University of Pennsylvania,宾夕法尼亚大学,Business(商科),Analytics（商业分析）
+6,6,University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),Analytics（商业分析）
+7,4,University of Michigan—Ann Arbor,密歇根大学安娜堡分校,Business(商科),Analytics（商业分析）
+8,2,University of California—Berkeley,加州大学伯克利分校,Business(商科),Analytics（商业分析）
+9,27,Boston College,波士顿学院,Business(商科),Analytics（商业分析）
+10,27,Arizona State University,亚利桑那州立大学,Business(商科),Analytics（商业分析）
+11,9,Indiana University—Bloomington,印第安纳大学伯明顿分校,Business(商科),Analytics（商业分析）
+12,27,Purdue University,普渡大学西拉法叶校区,Business(商科),Analytics（商业分析）
+1,1,Babson College,巴布森学院,Business(商科),Entrepreneurship(创业学）
+2,2,Massachusetts Institute of Technology,麻省理工学院,Business(商科),Entrepreneurship(创业学）
+2,4,University of Michigan—Ann Arbor,密歇根大学安娜堡分校,Business(商科),Entrepreneurship(创业学）
+4,2,University of California—Berkeley,加州大学伯克利分校,Business(商科),Entrepreneurship(创业学）
+5,9,Indiana University—Bloomington,印第安纳大学伯明顿分校,Business(商科),Entrepreneurship(创业学）
+6,6,University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),Entrepreneurship(创业学）
+7,1,University of Pennsylvania,宾夕法尼亚大学,Business(商科),Entrepreneurship(创业学）
+8,40,University of Utah,犹他大学,Business(商科),Entrepreneurship(创业学）
+9,65,University of Houston,休斯顿大学,Business(商科),Entrepreneurship(创业学）
+10,27,Boston College,波士顿学院,Business(商科),Entrepreneurship(创业学）
+11,65,Baylor University,贝勒大学,Business(商科),Entrepreneurship(创业学）
+12,77,Loyola Marymount University,洛约拉马利蒙特大学,Business(商科),Entrepreneurship(创业学）
+12,114,Saint Louis University,圣路易斯大学,Business(商科),Entrepreneurship(创业学）
+1,1,University of Pennsylvania,宾夕法尼亚大学,Business(商科),Finance(金融学）
+2,5,New York University,纽约大学,Business(商科),Finance(金融学）
+3,6,University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),Finance(金融学）
+4,4,University of Michigan—Ann Arbor,密歇根大学安娜堡分校,Business(商科),Finance(金融学）
+5,2,University of California—Berkeley,加州大学伯克利分校,Business(商科),Finance(金融学）
+6,2,Massachusetts Institute of Technology,麻省理工学院,Business(商科),Finance(金融学）
+7,27,Boston College,波士顿学院,Business(商科),Finance(金融学）
+8,6,Carnegie Mellon University,卡内基梅隆大学,Business(商科),Finance(金融学）
+9,6,University of North Carolina—Chapel Hill,北卡罗来纳大学教堂山分校,Business(商科),Finance(金融学）
+10,9,Indiana University—Bloomington,印第安纳大学伯明顿分校,Business(商科),Finance(金融学）
+11,12,University of Virginia,弗吉尼亚大学,Business(商科),Finance(金融学）
+12,9,Cornell University,康奈尔大学,Business(商科),Finance(金融学）
+1,23, University of Georgia,佐治亚大学,Business(商科),Insurance(保险）
+2,18, University of Wisconsin—Madison,威斯康星大学麦迪逊分校,Business(商科),Insurance(保险）
+3,53, Georgia State University,佐治亚州立大学,Business(商科),Insurance(保险）
+4,53, Florida State University,佛罗里达州立大学,Business(商科),Insurance(保险）
+4,114, Temple University,天普大学,Business(商科),Insurance(保险）
+6,6, University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),Insurance(保险）
+7,1, University of Pennsylvania,宾夕法尼亚大学,Business(商科),Insurance(保险）
+8,27, University of Iowa,爱荷华大学,Business(商科),Insurance(保险）
+9,5, New York University,纽约大学,Business(商科),Insurance(保险）
+9,147, St. John's University,圣约翰大学,Business(商科),Insurance(保险）
+9,14, University of Illinois—Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校,Business(商科),Insurance(保险）
+1,40,University of South Carolina,南卡罗来纳大学,Business(商科),International Business(国际商务)
+3,14,Georgetown University,乔治城大学,Business(商科),International Business(国际商务)
+4,40,George Washington University,乔治华盛顿大学,Business(商科),International Business(国际商务)
+5,5,New York University,纽约大学,Business(商科),International Business(国际商务)
+6,1,University of Pennsylvania,宾夕法尼亚大学,Business(商科),International Business(国际商务)
+7,2,University of California—Berkeley,加州大学伯克利分校,Business(商科),International Business(国际商务)
+8,94,American University,美国大学,Business(商科),International Business(国际商务)
+9,9,University of Southern California,南加州大学,Business(商科),International Business(国际商务)
+10,65,Northeastern University,东北大学,Business(商科),International Business(国际商务)
+11,6,University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),International Business(国际商务)
+12,114,Temple University,天普大学,Business(商科),International Business(国际商务)
+1,1,University of Pennsylvania,宾夕法尼亚大学,Business(商科),Management(管理）
+2,4,University of Michigan-Ann Arbor,密歇根大学安娜堡分校,Business(商科),Management(管理）
+3,2,University of California-Berkeley,加州大学伯克利分校,Business(商科),Management(管理）
+4,6,University of Texas-Austin,德克萨斯大学奥斯汀分校,Business(商科),Management(管理）
+5,5,New York University,纽约大学,Business(商科),Management(管理）
+6,6,University of North Carolina-Chapel Hill,北卡罗来纳大学教堂山分校,Business(商科),Management(管理）
+7,9,Indiana University-Bloomington,印第安纳大学伯明顿分校,Business(商科),Management(管理）
+8,2,Massachusetts Institute of Technology,麻省理工学院,Business(商科),Management(管理）
+9,27,Texas A&M University,德克萨斯农工大学,Business(商科),Management(管理）
+9,12,University of Virginia,弗吉尼亚大学,Business(商科),Management(管理）
+11,27,Boston College,波士顿学院,Business(商科),Management(管理）
+12,27,Arizona State University,亚利桑那州立大学,Business(商科),Management(管理）
+1,6,Carnegie Mellon University,卡内基梅隆大学,Business(商科),Management Information Systems（管理信息）
+2,27,University of Arizona,亚利桑那大学,Business(商科),Management Information Systems（管理信息）
+3,2,Massachusetts Institute of Technology,麻省理工学院,Business(商科),Management Information Systems（管理信息）
+4,18,Georgia Institute of Technology,佐治亚理工学院,Business(商科),Management Information Systems（管理信息）
+5,6,University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),Management Information Systems（管理信息）
+6,18,University of Minnesota—Twin Cities,明尼苏达大学双城分校,Business(商科),Management Information Systems（管理信息）
+7,53,Georgia State University,佐治亚州立大学,Business(商科),Management Information Systems（管理信息）
+8,9,Indiana University—Bloomington,印第安纳大学伯明顿分校,Business(商科),Management Information Systems（管理信息）
+9,27,Arizona State University,亚利桑那州立大学,Business(商科),Management Information Systems（管理信息）
+9,23,University of Maryland,马里兰大学,Business(商科),Management Information Systems（管理信息）
+11,5,New York University,纽约大学,Business(商科),Management Information Systems（管理信息）
+12,23,University of Georgia,佐治亚大学,Business(商科),Management Information Systems（管理信息）
+1,4, University of Michigan—Ann Arbor,密歇根大学安娜堡分校,Business(商科),Marketing(市场)
+2,1, University of Pennsylvania,宾夕法尼亚大学,Business(商科),Marketing(市场)
+3,9, Indiana University—Bloomington,印第安纳大学布鲁明顿分校,Business(商科),Marketing(市场)
+4,6, University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),Marketing(市场)
+5,5, New York University,纽约大学,Business(商科),Marketing(市场)
+6,2, University of California—Berkeley,加州大学伯克利分校,Business(商科),Marketing(市场)
+7,6, University of North Carolina—Chapel Hill,北卡罗来纳大学教堂山分校,Business(商科),Marketing(市场)
+8,12, University of Virginia,弗吉尼亚大学,Business(商科),Marketing(市场)
+8,18, University of Wisconsin—Madison,威斯康星大学麦迪逊分校,Business(商科),Marketing(市场)
+10,27, Boston College,波士顿学院,Business(商科),Marketing(市场)
+11,14, University of Illinois—Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校,Business(商科),Marketing(市场)
+12,23, University of Florida,佛罗里达大学,Business(商科),Marketing(市场)
+1,2,Massachusetts Institute of Technology,麻省理工学院,Business(商科),Production / Operations Management(生产/运营管理)
+2,4,University of Michigan—Ann Arbor,密歇根大学安娜堡分校,Business(商科),Production / Operations Management(生产/运营管理)
+3,27,Michigan State University,密歇根州立大学,Business(商科),Production / Operations Management(生产/运营管理)
+4,1,University of Pennsylvania,宾夕法尼亚大学,Business(商科),Production / Operations Management(生产/运营管理)
+5,27,Purdue University,普渡大学西拉法叶校区,Business(商科),Production / Operations Management(生产/运营管理)
+6,6,Carnegie Mellon University,卡内基梅隆大学,Business(商科),Production / Operations Management(生产/运营管理)
+7,6,University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),Production / Operations Management(生产/运营管理)
+8,18,Georgia Institute of Technology,佐治亚理工学院,Business(商科),Production / Operations Management(生产/运营管理)
+9,27,Arizona State University,亚利桑那州立大学,Business(商科),Production / Operations Management(生产/运营管理)
+10,9,Indiana University—Bloomington,印第安纳大学伯明顿分校,Business(商科),Production / Operations Management(生产/运营管理)
+10,14,Ohio State University—Columbus,俄亥俄州立大学哥伦布分校,Business(商科),Production / Operations Management(生产/运营管理)
+12,2,University of California—Berkeley,加州大学伯克利分校,Business(商科),Production / Operations Management(生产/运营管理)
+1,2,Massachusetts Institute of Technology,麻省理工学院,Business(商科),Quantitative Analysis（量化分析）
+2,6,Carnegie Mellon University,卡内基梅隆大学,Business(商科),Quantitative Analysis（量化分析）
+3,1,University of Pennsylvania,宾夕法尼亚大学,Business(商科),Quantitative Analysis（量化分析）
+4,2,University of California Berkeley,加州大学伯克利分校,Business(商科),Quantitative Analysis（量化分析）
+5,4,University of Michigan Ann Arbor,密歇根大学安娜堡分校,Business(商科),Quantitative Analysis（量化分析）
+5,6,University of Texas Austin,德克萨斯大学奥斯汀分校,Business(商科),Quantitative Analysis（量化分析）
+7,18,Georgia Institute of Technology,佐治亚理工学院,Business(商科),Quantitative Analysis（量化分析）
+8,9,Cornell University,康奈尔大学,Business(商科),Quantitative Analysis（量化分析）
+8,5,New York University,纽约大学,Business(商科),Quantitative Analysis（量化分析）
+10,27,Purdue University,普渡大学西拉法叶校区,Business(商科),Quantitative Analysis（量化分析）
+10,18,Washington University in St. Louis,圣路易斯华盛顿大学,Business(商科),Quantitative Analysis（量化分析）
+1,18,University of Wisconsin—Madison,威斯康星大学麦迪逊分校,Business(商科),Real Estate（房地产）
+2,1,University of Pennsylvania,宾夕法尼亚大学,Business(商科),Real Estate（房地产）
+3,5,New York University,纽约大学,Business(商科),Real Estate（房地产）
+3,23,University of Georgia,佐治亚大学,Business(商科),Real Estate（房地产）
+3,9,University of Southern California,南加州大学,Business(商科),Real Estate（房地产）
+6,2,University of California—Berkeley,加州大学伯克利分校,Business(商科),Real Estate（房地产）
+7,53,Florida State University,佛罗里达州立大学,Business(商科),Real Estate（房地产）
+7,23,University of Florida,佛罗里达大学,Business(商科),Real Estate（房地产）
+9,6,University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),Real Estate（房地产）
+10,6,University of North Carolina—Chapel Hill,北卡罗来纳大学教堂山分校,Business(商科),Real Estate（房地产）
+11,4,University of Michigan—Ann Arbor,密歇根大学安娜堡分校,Business(商科),Real Estate（房地产）
+12,53,University of Miami,迈阿密大学,Business(商科),Real Estate（房地产）
+1,27,Michigan State University,密歇根州立大学,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+2,27,Arizona State University,亚利桑那州立大学,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+3,2,Massachusetts Institute of Technology,麻省理工学院,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+4,40,University of Tennessee—Knoxville,田纳西大学诺克斯维尔分校,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+5,14,Ohio State University,俄亥俄州立大学,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+6,4,University of Michigan,密歇根大学,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+7,18,Georgia Institute of Technology,佐治亚理工学院,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+8,6,University of Texas—Austin,德克萨斯大学奥斯汀分校,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+9,40,University of Arkansas,阿肯色大学,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+10,23,Pennsylvania State University,宾夕法尼亚州立大学,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+10,27,Purdue University,普渡大学西拉法叶校区,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+12,6,Carnegie Mellon University,卡内基梅隆大学,Business(商科),Supply Chain Management / Logistics（供应链/物流)
+1,1,Stanford University,斯坦福大学,Psychology(心理学）,Psychology(心理学）
+2,2,Harvard University,哈佛大学,Psychology(心理学）,Psychology(心理学）
+2,2,Princeton University,普林斯顿大学,Psychology(心理学）,Psychology(心理学）
+2,2,University of California--Berkeley,加州大学伯克利分校,Psychology(心理学）,Psychology(心理学）
+5,5,University of California--Los Angeles,加州大学洛杉矶分校,Psychology(心理学）,Psychology(心理学）
+5,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校,Psychology(心理学）,Psychology(心理学）
+7,7,Yale University,耶鲁大学,Psychology(心理学）,Psychology(心理学）
+8,8,University of Pennsylvania,宾夕法尼亚大学,Psychology(心理学）,Psychology(心理学）
+9,9,Cornell University,康奈尔大学,Psychology(心理学）,Psychology(心理学）
+10,10,Columbia University,哥伦比亚大学,Psychology(心理学）,Psychology(心理学）
+1,1,Emory University,埃默里大学,Nursing(护理学）,Nursing(护理学）
+2,2,Duke University,杜克大学,Nursing(护理学）,Nursing(护理学）
+2,2,University of Pennsylvania,宾夕法尼亚大学,Nursing(护理学）,Nursing(护理学）
+4,4,Ohio State University,俄亥俄州立大学,Nursing(护理学）,Nursing(护理学）
+4,4,University of Iowa,爱荷华大学,Nursing(护理学）,Nursing(护理学）
+4,4,University of North Carolina--Chapel Hill,北卡罗来纳大学教堂山分校,Nursing(护理学）,Nursing(护理学）
+4,4,University of Pittsburgh,匹兹堡大学,Nursing(护理学）,Nursing(护理学）
+4,4,University of Washington,华盛顿大学,Nursing(护理学）,Nursing(护理学）
+9,9,Boston College,波士顿学院,Nursing(护理学）,Nursing(护理学）
+9,9,Case Western Reserve University,凯斯西储大学,Nursing(护理学）,Nursing(护理学）
+9,9,University of California--Los Angeles,加州大学洛杉矶分校,Nursing(护理学）,Nursing(护理学）
+9,9,University of Michigan--Ann Arbor,密歇根大学安娜堡分校,Nursing(护理学）,Nursing(护理学）
+13,13,New York University,纽约大学,Nursing(护理学）,Nursing(护理学）
+13,13,Oregon Health and Science University,俄勒冈健康与科学大学,Nursing(护理学）,Nursing(护理学）
+13,13,University of Alabama at Birmingham,阿拉巴马大学伯明翰分校,Nursing(护理学）,Nursing(护理学）
+13,13,University of Illinois--Chicago,伊利诺伊大学芝加哥分校,Nursing(护理学）,Nursing(护理学）
+13,13,"University of Maryland, Baltimore",马里兰大学巴尔的摩分校,Nursing(护理学）,Nursing(护理学）
+13,13,University of Virginia,弗吉尼亚大学,Nursing(护理学）,Nursing(护理学）
+1,1,Massachusetts Institute of Technology,麻省理工学院,Economics(经济学),Economics(经济学)
+1,1,Princeton University,普林斯顿大学,Economics(经济学),Economics(经济学)
+1,1,Stanford University,斯坦福大学,Economics(经济学),Economics(经济学)
+1,1,University of Chicago,芝加哥大学,Economics(经济学),Economics(经济学)
+5,5,Harvard University,哈佛大学,Economics(经济学),Economics(经济学)
+5,5,University of California--Berkeley,加州大学伯克利分校,Economics(经济学),Economics(经济学)
+5,5,Yale University,耶鲁大学,Economics(经济学),Economics(经济学)
+8,8,Northwestern University,西北大学,Economics(经济学),Economics(经济学)
+8,8,University of Pennsylvania,宾夕法尼亚大学,Economics(经济学),Economics(经济学)
+10,10,Columbia University,哥伦比亚大学,Economics(经济学),Economics(经济学)
+-,1,Stanford University,斯坦福大学,Computer Science(计算机科学）,-
+-,2,Carnegie Mellon University,卡内基梅隆大学,Computer Science(计算机科学）,-
+-,2,Massachusetts Institute of Technology,麻省理工学院,Computer Science(计算机科学）,-
+-,2,University of California--Berkeley,加州大学伯克利分校,Computer Science(计算机科学）,-
+-,5,Princeton University,普林斯顿大学,Computer Science(计算机科学）,-
+-,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校,Computer Science(计算机科学）,-
+-,7,Cornell University,康奈尔大学,Computer Science(计算机科学）,-
+-,7,Georgia Institute of Technology,佐治亚理工学院,Computer Science(计算机科学）,-
+-,7,University of Washington,华盛顿大学,Computer Science(计算机科学）,-
+-,10,California Institute of Technology,加州理工学院,Computer Science(计算机科学）,-
+-,10,University of Michigan--Ann Arbor,密歇根大学安娜堡分校,Computer Science(计算机科学）,-
+-,10,University of Texas--Austin,德克萨斯大学奥斯汀分校,Computer Science(计算机科学）,-
+1,2,Carnegie Mellon University,卡内基梅隆大学,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+2,2,Massachusetts Institute of Technology,麻省理工学院,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+3,1,Stanford University,斯坦福大学,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+4,2,University of California--Berkeley,加州大学伯克利分校,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+5,7,Georgia Institute of Technology,佐治亚理工学院,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+6,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+7,7,Cornell University,康奈尔大学,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+8,10,California Institute of Technology,加州理工学院,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+9,7,University of Washington,华盛顿大学,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+10,5,Princeton University,普林斯顿大学,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+11,13,Harvard University,哈佛大学,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+12,13,University of California--Los Angeles,加州大学洛杉矶分校,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+12,13,University of California--San Diego,加州大学圣地亚哥分校,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+12,19,University of Maryland--College Park,马里兰大学帕克分校,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+12,10,University of Michigan--Ann Arbor,密歇根大学安娜堡分校,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+12,10,University of Texas--Austin,德克萨斯大学奥斯汀分校,Computer Science(计算机科学）,Artificial Intelligence（人工智能）
+1,2,Massachusetts Institute of Technology,麻省理工学院,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+2,2,University of California--Berkeley,加州大学伯克利分校,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+3,2,Carnegie Mellon University,卡内基梅隆大学,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+4,13,University of California--San Diego,加州大学圣地亚哥分校,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+5,13,Harvard University,哈佛大学,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+5,19,Johns Hopkins University,约翰霍普金斯大学,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+7,1,Stanford University,斯坦福大学,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+7,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+9,19,Duke University,杜克大学,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+10,5,Princeton University,普林斯顿大学,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+12,7,Cornell University,康奈尔大学,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+12,19,University of Pennsylvania,宾夕法尼亚大学,Computer Science(计算机科学）,Bioinformatics/Biotechnology(生物信息技术）
+1,2,Massachusetts Institute of Technology,麻省理工学院,Computer Science(计算机科学）,Computer Systems(计算机系统）
+2,2,Carnegie Mellon University,卡内基梅隆大学,Computer Science(计算机科学）,Computer Systems(计算机系统）
+3,2,University of California Berkeley,加州大学伯克利分校,Computer Science(计算机科学）,Computer Systems(计算机系统）
+4,7,Georgia Institute of Technology,佐治亚理工学院,Computer Science(计算机科学）,Computer Systems(计算机系统）
+5,5,University of Illinois Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校,Computer Science(计算机科学）,Computer Systems(计算机系统）
+6,1,Stanford University,斯坦福大学,Computer Science(计算机科学）,Computer Systems(计算机系统）
+7,7,University of Washington,华盛顿大学,Computer Science(计算机科学）,Computer Systems(计算机系统）
+8,16,University of Wisconsin-Madison,威斯康星大学麦迪逊分校,Computer Science(计算机科学）,Computer Systems(计算机系统）
+9,10,University of Michigan-Ann Arbor,密歇根大学安娜堡分校,Computer Science(计算机科学）,Computer Systems(计算机系统）
+10,10,University of Texas at Austin,德克萨斯大学奥斯汀分校,Computer Science(计算机科学）,Computer Systems(计算机系统）
+11,13,University of California San Diego,加州大学圣地亚哥分校,Computer Science(计算机科学）,Computer Systems(计算机系统）
+12,7,Cornell University,康奈尔大学,Computer Science(计算机科学）,Computer Systems(计算机系统）
+1,2,Carnegie Mellon University,卡内基梅隆大学,Computer Science(计算机科学）,Cybersecurity(网络安全）
+2,7,Georgia Institute of Technology,佐治亚理工学院,Computer Science(计算机科学）,Cybersecurity(网络安全）
+3,2,Massachusetts Institute of Technology,麻省理工学院,Computer Science(计算机科学）,Cybersecurity(网络安全）
+4,2,University of California--Berkeley,加州大学伯克利分校,Computer Science(计算机科学）,Cybersecurity(网络安全）
+5,1,Stanford University,斯坦福大学,Computer Science(计算机科学）,Cybersecurity(网络安全）
+6,16,Purdue University,普渡大学西拉法叶校区,Computer Science(计算机科学）,Cybersecurity(网络安全）
+7,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校,Computer Science(计算机科学）,Cybersecurity(网络安全）
+8,10,University of Michigan--Ann Arbor,密歇根大学安娜堡分校,Computer Science(计算机科学）,Cybersecurity(网络安全）
+8,10,University of Texas--Austin,德克萨斯大学奥斯汀分校,Computer Science(计算机科学）,Cybersecurity(网络安全）
+10,7,Cornell University,康奈尔大学,Computer Science(计算机科学）,Cybersecurity(网络安全）
+10,13,University of California--San Diego,加州大学圣地亚哥分校,Computer Science(计算机科学）,Cybersecurity(网络安全）
+12,7,University of Washington,华盛顿大学,Computer Science(计算机科学）,Cybersecurity(网络安全）
+1,2,University of California Berkeley,加州大学伯克利分校,Computer Science(计算机科学）,Data Science（数据科学)
+2,2,Massachusetts Institute of Technology,麻省理工学院,Computer Science(计算机科学）,Data Science（数据科学)
+3,1,Stanford University,斯坦福大学,Computer Science(计算机科学）,Data Science（数据科学)
+4,2,Carnegie Mellon University,卡内基梅隆大学,Computer Science(计算机科学）,Data Science（数据科学)
+4,7,Georgia Institute of Technology,佐治亚理工学院,Computer Science(计算机科学）,Data Science（数据科学)
+6,7,University of Washington,华盛顿大学,Computer Science(计算机科学）,Data Science（数据科学)
+7,10,University of Michigan,密歇根大学,Computer Science(计算机科学）,Data Science（数据科学)
+8,7,Cornell University,康奈尔大学,Computer Science(计算机科学）,Data Science（数据科学)
+9,13,Harvard University,哈佛大学,Computer Science(计算机科学）,Data Science（数据科学)
+10,5,University of Illinois Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校,Computer Science(计算机科学）,Data Science（数据科学)
+11,16,Columbia University,哥伦比亚大学,Computer Science(计算机科学）,Data Science（数据科学)
+12,5,Princeton University,普林斯顿大学,Computer Science(计算机科学）,Data Science（数据科学)
+12,13,University of California San Diego,加州大学圣地亚哥分校,Computer Science(计算机科学）,Data Science（数据科学)
+1,19,University of Southern California,南加州大学,Computer Science(计算机科学）,Game Design(游戏设计）
+2,2,Carnegie Mellon University,卡内基梅隆大学,Computer Science(计算机科学）,Game Design(游戏设计）
+3,1,Stanford University,斯坦福大学,Computer Science(计算机科学）,Game Design(游戏设计）
+4,7,Georgia Institute of Technology,佐治亚理工学院,Computer Science(计算机科学）,Game Design(游戏设计）
+4,2,University of California Berkeley,加州大学伯克利分校,Computer Science(计算机科学）,Game Design(游戏设计）
+6,2,Massachusetts Institute of Technology,麻省理工学院,Computer Science(计算机科学）,Game Design(游戏设计）
+6,50,University of Utah,犹他大学,Computer Science(计算机科学）,Game Design(游戏设计）
+1,2,Carnegie Mellon University,卡内基梅隆大学,Computer Science(计算机科学）,Mobile/Web Applications（移动开发）
+2,7,Georgia Institute of Technology,佐治亚理工学院,Computer Science(计算机科学）,Mobile/Web Applications（移动开发）
+2,2,Massachusetts Institute of Technology,麻省理工学院,Computer Science(计算机科学）,Mobile/Web Applications（移动开发）
+4,2,University of California--Berkeley,加州大学伯克利分校,Computer Science(计算机科学）,Mobile/Web Applications（移动开发）
+5,13,University of California--San Diego,加州大学圣地亚哥分校,Computer Science(计算机科学）,Mobile/Web Applications（移动开发）
+6,1,Stanford University,斯坦福大学,Computer Science(计算机科学）,Mobile/Web Applications（移动开发）
+6,13,University of California--Los Angeles,加州大学洛杉矶分校,Computer Science(计算机科学）,Mobile/Web Applications（移动开发）
+6,10,University of Michigan--Ann Arbor,密歇根大学安娜堡分校,Computer Science(计算机科学）,Mobile/Web Applications（移动开发）
+9,7,University of Washington,华盛顿大学,Computer Science(计算机科学）,Mobile/Web Applications（移动开发）
+10,7,Cornell University,康奈尔大学,Computer Science(计算机科学）,Mobile/Web Applications（移动开发）
+10,13,Harvard University,哈佛大学,Computer Science(计算机科学）,Mobile/Web Applications（移动开发）
+1,2,Massachusetts Institute of Technology,麻省理工学院,Computer Science(计算机科学）,Programming Languages（程序语言）
+2,2,Carnegie Mellon University,卡内基梅隆大学,Computer Science(计算机科学）,Programming Languages（程序语言）
+3,1,Stanford University,斯坦福大学,Computer Science(计算机科学）,Programming Languages（程序语言）
+4,7,Cornell University,康奈尔大学,Computer Science(计算机科学）,Programming Languages（程序语言）
+4,2,University of California--Berkeley,加州大学伯克利分校,Computer Science(计算机科学）,Programming Languages（程序语言）
+4,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校,Computer Science(计算机科学）,Programming Languages（程序语言）
+4,7,University of Washington,华盛顿大学,Computer Science(计算机科学）,Programming Languages（程序语言）
+8,5,Princeton University,普林斯顿大学,Computer Science(计算机科学）,Programming Languages（程序语言）
+9,16,University of Wisconsin--Madison,威斯康星大学麦迪逊分校,Computer Science(计算机科学）,Programming Languages（程序语言）
+10,7,Georgia Institute of Technology,佐治亚理工学院,Computer Science(计算机科学）,Programming Languages（程序语言）
+10,19,University of Pennsylvania,宾夕法尼亚大学,Computer Science(计算机科学）,Programming Languages（程序语言）
+12,13,University of California--San Diego,加州大学圣地亚哥分校,Computer Science(计算机科学）,Programming Languages（程序语言）
+12,10,University of Texas--Austin,德克萨斯大学奥斯汀分校,Computer Science(计算机科学）,Programming Languages（程序语言）
+1,2,Carnegie Mellon University,卡内基梅隆大学,Computer Science(计算机科学）,Software Engineering（软件工程）
+2,7,Georgia Institute of Technology,佐治亚理工学院,Computer Science(计算机科学）,Software Engineering（软件工程）
+3,2,Massachusetts Institute of Technology,麻省理工学院,Computer Science(计算机科学）,Software Engineering（软件工程）
+4,2,University of California--Berkeley,加州大学伯克利分校,Computer Science(计算机科学）,Software Engineering（软件工程）
+5,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Computer Science(计算机科学）,Software Engineering（软件工程）
+6,7,University of Washington,华盛顿大学    ,Computer Science(计算机科学）,Software Engineering（软件工程）
+7,10,University of Texas--Austin,德克萨斯大学奥斯汀分校    ,Computer Science(计算机科学）,Software Engineering（软件工程）
+8,1,Stanford University,斯坦福大学    ,Computer Science(计算机科学）,Software Engineering（软件工程）
+9,13,University of California--Los Angeles,加州大学洛杉矶分校    ,Computer Science(计算机科学）,Software Engineering（软件工程）
+10,16,Purdue University,普渡大学西拉法叶校区,Computer Science(计算机科学）,Software Engineering（软件工程）
+10,25,University of California--Irvine,加州大学欧文分校    ,Computer Science(计算机科学）,Software Engineering（软件工程）
+12,10,California Institute of Technology,加州理工学院    ,Computer Science(计算机科学）,Software Engineering（软件工程）
+12,7,Cornell University,康奈尔大学    ,Computer Science(计算机科学）,Software Engineering（软件工程）
+12,13,Harvard University,哈佛大学,Computer Science(计算机科学）,Software Engineering（软件工程）
+1,2,Massachusetts Institute of Technology,麻省理工学院    ,Computer Science(计算机科学）,Theory(计算机理论）
+2,1,Stanford University,斯坦福大学    ,Computer Science(计算机科学）,Theory(计算机理论）
+2,2,University of California--Berkeley,加州大学伯克利分校    ,Computer Science(计算机科学）,Theory(计算机理论）
+4,2,Carnegie Mellon University,卡内基梅隆大学    ,Computer Science(计算机科学）,Theory(计算机理论）
+5,7,Cornell University,康奈尔大学    ,Computer Science(计算机科学）,Theory(计算机理论）
+6,5,Princeton University,普林斯顿大学    ,Computer Science(计算机科学）,Theory(计算机理论）
+7,13,Harvard University,哈佛大学    ,Computer Science(计算机科学）,Theory(计算机理论）
+7,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Computer Science(计算机科学）,Theory(计算机理论）
+9,16,Columbia University,哥伦比亚大学    ,Computer Science(计算机科学）,Theory(计算机理论）
+10,7,Georgia Institute of Technology,佐治亚理工学院    ,Computer Science(计算机科学）,Theory(计算机理论）
+11,7,University of Washington,华盛顿大学    ,Computer Science(计算机科学）,Theory(计算机理论）
+12,13,University of California--Los Angeles,加州大学洛杉矶分校,Computer Science(计算机科学）,Theory(计算机理论）
+-,1,Massachusetts Institute of Technology,麻省理工学院    ,Engineering(工程学-最高博士学位）,-
+-,2,Stanford University,斯坦福大学    ,Engineering(工程学-最高博士学位）,-
+-,3,University of California--Berkeley,加州大学伯克利分校    ,Engineering(工程学-最高博士学位）,-
+-,4,Georgia Institute of Technology,佐治亚理工学院    ,Engineering(工程学-最高博士学位）,-
+-,5,California Institute of Technology,加州理工学院    ,Engineering(工程学-最高博士学位）,-
+-,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Engineering(工程学-最高博士学位）,-
+-,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校    ,Engineering(工程学-最高博士学位）,-
+-,8,Carnegie Mellon University,卡内基梅隆大学    ,Engineering(工程学-最高博士学位）,-
+-,8,Purdue University,普渡大学西拉法叶校区,Engineering(工程学-最高博士学位）,-
+-,10,Cornell University,康奈尔大学,Engineering(工程学-最高博士学位）,-
+-,10,University of Texas--Austin,德克萨斯大学奥斯汀分校,Engineering(工程学-最高博士学位）,-
+-,12,Princeton University,普林斯顿大学,Engineering(工程学-最高博士学位）,-
+-,13,Johns Hopkins University,约翰霍普金斯大学,Engineering(工程学-最高博士学位）,-
+-,13,University of Wisconsin--Madison,威斯康星大学麦迪逊分校,Engineering(工程学-最高博士学位）,-
+-,13,Virginia Tech,维吉尼亚理工大学,Engineering(工程学-最高博士学位）,-
+-,16,Northwestern University,西北大学,Engineering(工程学-最高博士学位）,-
+-,16,Texas A&M University,德克萨斯农工大学,Engineering(工程学-最高博士学位）,-
+-,16,University of California--Los Angeles,加州大学洛杉矶分校,Engineering(工程学-最高博士学位）,-
+-,16,"University of Maryland, College Park",马里兰大学帕克分校,Engineering(工程学-最高博士学位）,-
+1,1,Massachusetts Institute of Technology,麻省理工学院 ,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+2,4,Georgia Institute of Technology,佐治亚理工学院    ,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+3,8,Purdue University,普渡大学西拉法叶校区,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+4,5,California Institute of Technology,加州理工学院    ,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+5,79,Embry-Riddle Aeronautical University--Daytona Beach,恩布里-里德尔航空大学代托纳比奇分校    ,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+6,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+7,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校    ,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+8,2,Stanford University,斯坦福大学    ,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+9,30,University of Colorado--Boulder,科罗拉多大学博尔德分校    ,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+10,10,University of Texas--Austin,德克萨斯大学奥斯汀分校    ,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+11,16,University of Maryland--College Park,马里兰大学帕克分校    ,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+12,16,Texas A&M University,德克萨斯农工大学,Engineering(工程学-最高博士学位）,Aerospace / Aeronautical / Astronautical Engineering(航空航天工程）
+1,49,Iowa State University,爱荷华州立大学    ,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+1,16,Texas A&M University,德克萨斯农工大学,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+1,30,University of California--Davis,加州大学戴维斯分校    ,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+4,10,Cornell University,康奈尔大学    ,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+4,8,Purdue University,普渡大学西拉法叶校区,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+6,5,University of Illinois Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+7,35,University of Florida,佛罗里达大学    ,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+8,30,North Carolina State University,北卡罗来纳州立大学    ,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+8,13,Virginia Tech,弗吉尼亚理工大学    ,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+10,71,University of Nebraska-Lincoln,内布拉斯加大学林肯分校,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+11,20,Pennsylvania State University,宾夕法尼亚州立大学    ,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+12,20,Ohio State University,俄亥俄州立大学,Engineering(工程学-最高博士学位）,Biological / Agricultural(生物农业）
+1,13,Johns Hopkins University,约翰霍普金斯大学    ,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+2,4,Georgia Institute of Technology,佐治亚理工学院    ,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+3,20,Duke University,杜克大学    ,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+4,1,Massachusetts Institute of Technology,麻省理工学院    ,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+5,2,Stanford University,斯坦福大学    ,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+6,3,University of California--Berkeley,加州大学伯克利分校    ,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+7,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校    ,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+8,20,University of California--San Diego,加州大学圣地亚哥分校    ,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+9,20,Rice University,莱斯大学    ,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+10,49,Boston University,波士顿大学    ,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+11,16,Northwestern University,西北大学    ,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+12,27,University of Pennsylvania,宾夕法尼亚大学,Engineering(工程学-最高博士学位）,Biomedical（生物医学)
+1,1,Massachusetts Institute of Technology,麻省理工学院    ,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+2,3,University of California--Berkeley,加州大学伯克利分校    ,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+3,4,Georgia Institute of Technology,佐治亚理工学院    ,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+4,51,University of Delaware,特拉华大学    ,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+5,10,University of Texas--Austin,德克萨斯大学奥斯汀分校    ,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+6,2,Stanford University,斯坦福大学    ,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+7,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+8,5,California Institute of Technology,加州理工学院    ,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+8,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校    ,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+10,8,Carnegie Mellon University,卡内基梅隆大学    ,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+11,12,Princeton University,普林斯顿大学    ,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+12,27,University of Minnesota--Twin Cities,明尼苏达大学双城分校,Engineering(工程学-最高博士学位）,Chemical(化学工程）
+1,1,Massachusetts Institute of Technology,麻省理工学院    ,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+2,3,University of California--Berkeley,加州大学伯克利分校    ,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+3,4,Georgia Institute of Technology,佐治亚理工学院    ,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+4,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+4,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校    ,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+6,2,Stanford University,斯坦福大学    ,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+7,16,Northwestern University,西北大学    ,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+8,10,Cornell University,康奈尔大学    ,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+9,8,Carnegie Mellon University,卡内基梅隆大学    ,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+10,5,California Institute of Technology,加州理工学院    ,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+10,20,Pennsylvania State University--University Park,宾夕法尼亚州立大学帕克分校    ,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+10,8,Purdue University,普渡大学西拉法叶校区,Engineering(工程学-最高博士学位）,Materials Engineering(材料工程）
+1,4,Georgia Institute of Technology,佐治亚理工学院    ,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+2,3,University of California--Berkeley,加州大学伯克利分校    ,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+3,8,Purdue University,普渡大学西拉法叶校区,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+3,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+5,1,Massachusetts Institute of Technology,麻省理工学院    ,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+6,2,Stanford University,斯坦福大学    ,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+6,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校    ,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+8,10,University of Texas--Austin,德克萨斯大学奥斯汀分校    ,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+9,16,Texas A&M University,德克萨斯农工大学,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+9,13,Virginia Tech,弗吉尼亚理工大学    ,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+11,8,Carnegie Mellon University,卡内基梅隆大学    ,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+11,10,Cornell University,康奈尔大学,Engineering(工程学-最高博士学位）,Civil Engineering(土木工程）
+1,1,Massachusetts Institute of Technology,麻省理工学院  ,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+2,8,Carnegie Mellon University,卡内基梅隆大学    ,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+3,2,Stanford University,斯坦福大学    ,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+4,4,Georgia Institute of Technology,佐治亚理工学院    ,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+5,3,University of California--Berkeley,加州大学伯克利分校    ,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+5,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+7,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校    ,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+8,5,California Institute of Technology,加州理工学院    ,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+9,10,University of Texas--Austin,德克萨斯大学奥斯汀分校    ,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+10,8,Purdue University,普渡大学西拉法叶校区,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+11,10,Cornell University,康奈尔大学    ,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+12,12,Princeton University,普林斯顿大学,Engineering(工程学-最高博士学位）,Computer Engineering（计算机工程）
+1,1,Massachusetts Institute of Technology,麻省理工学院、    ,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+2,3,University of California--Berkeley,加州大学伯克利分校    ,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+3,2,Stanford University,斯坦福大学    ,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+4,4,Georgia Institute of Technology,佐治亚理工学院    ,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+5,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+6,5,California Institute of Technology,加州理工学院    ,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+7,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校    ,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+8,8,Carnegie Mellon University,卡内基梅隆大学    ,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+9,10,University of Texas--Austin,德克萨斯大学奥斯汀分校    ,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+10,10,Cornell University,康奈尔大学    ,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+11,8,Purdue University,普渡大学西拉法叶校区,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+12,16,University of California--Los Angeles,加州大学洛杉矶分校,Engineering(工程学-最高博士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+1,3,University of California--Berkeley,加州大学伯克利分校    ,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+2,2,Stanford University,斯坦福大学    ,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+3,4,Georgia Institute of Technology,佐治亚理工学院    ,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+4,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校    ,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+5,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+6,10,University of Texas--Austin,德克萨斯大学奥斯汀分校    ,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+7,1,Massachusetts Institute of Technology,麻省理工学院    ,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+7,13,Virginia Tech,弗吉尼亚理工大学    ,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+9,20,Duke University,杜克大学    ,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+10,10,Cornell University,康奈尔大学    ,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+11,8,Carnegie Mellon University,卡内基梅隆大学    ,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+12,8,Purdue University,普渡大学西拉法叶校区,Engineering(工程学-最高博士学位）,Environmental Health Engineering(环境健康工程)
+1,4,Georgia Institute of Technology,佐治亚理工学院    ,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+2,8,Purdue University,普渡大学西拉法叶校区,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+3,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校    ,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+4,13,Virginia Tech,弗吉尼亚理工大学    ,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+5,3,University of California--Berkeley,加州大学伯克利分校    ,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+6,16,Northwestern University,西北大学    ,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+7,2,Stanford University,斯坦福大学    ,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+8,10,Cornell University,康奈尔大学    ,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+8,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+10,16,Texas A&M University,德克萨斯农工大学,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+11,20,Pennsylvania State University--University Park,宾夕法尼亚州立大学帕克分校    ,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+11,13,University of Wisconsin--Madison,威斯康星大学麦迪逊分校,Engineering(工程学-最高博士学位）,Industrial / Manufacturing（工业制造）
+1,1,Massachusetts Institute of Technology,麻省理工学院    ,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+2,4,Georgia Institute of Technology,佐治亚理工学院    ,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+3,2,Stanford University,斯坦福大学    ,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+4,3,University of California--Berkeley,加州大学伯克利分校    ,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+5,8,Carnegie Mellon University,卡内基梅隆大学    ,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+5,5,University of Michigan--Ann Arbor,密歇根大学安娜堡分校    ,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+7,8,Purdue University,普渡大学西拉法叶校区,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+8,5,California Institute of Technology,加州理工学院    ,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+9,5,University of Illinois--Urbana-Champaign,伊利诺伊大学厄巴纳-香槟分校    ,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+10,10,Cornell University,康奈尔大学    ,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+10,10,University of Texas--Austin,德克萨斯大学奥斯汀分校    ,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+12,16,Texas A&M University,德克萨斯农工大学,Engineering(工程学-最高博士学位）,Mechanical Engineering（机械工程)
+1,16,Texas A&M University,德克萨斯农工大学,Engineering(工程学-最高博士学位）,Petroleum Engineering（石油工程）
+2,43,Colorado School of Mines,科罗拉多矿业大学    ,Engineering(工程学-最高博士学位）,Petroleum Engineering（石油工程）
+2,10,University of Texas--Austin,德克萨斯大学奥斯汀分校    ,Engineering(工程学-最高博士学位）,Petroleum Engineering（石油工程）
+4,20,Pennsylvania State University--University Park,宾夕法尼亚州立大学-帕克分校    ,Engineering(工程学-最高博士学位）,Petroleum Engineering（石油工程）
+4,180,University of Tulsa,塔尔萨大学    ,Engineering(工程学-最高博士学位）,Petroleum Engineering（石油工程）
+6,113,Louisiana State University--Baton Rouge,路易斯安那州立大学-巴吞鲁日分校    ,Engineering(工程学-最高博士学位）,Petroleum Engineering（石油工程）
+6,98,University of Oklahoma,俄克拉荷马大学,Engineering(工程学-最高博士学位）,Petroleum Engineering（石油工程）
+-,1,Rose-Hulman Institute of Technology,罗斯-霍尔曼理工学院    ,Engineering(工程学-最高硕士学位）,-
+-,2,Harvey Mudd College,哈维穆德学院    ,Engineering(工程学-最高硕士学位）,-
+-,3,Franklin W. Olin College of Engineering,奥林工程学院    ,Engineering(工程学-最高硕士学位）,-
+-,4,U.S. Air Force Academy,美国空军学院    ,Engineering(工程学-最高硕士学位）,-
+-,5,U.S. Military Academy,美国陆军军官学院    ,Engineering(工程学-最高硕士学位）,-
+-,6,U.S. Naval Academy,美国海军学院    ,Engineering(工程学-最高硕士学位）,-
+-,7,Cooper Union,库珀联盟学院    ,Engineering(工程学-最高硕士学位）,-
+-,8,California Polytechnic State University--San Luis Obispo,加州理工大学圣路易斯奥比斯波分校    ,Engineering(工程学-最高硕士学位）,-
+-,9,Bucknell University,巴克内尔大学    ,Engineering(工程学-最高硕士学位）,-
+-,10,Embry-Riddle Aeronautical University--Prescott,恩布里-里德尔航空大学普雷斯科特分校,Engineering(工程学-最高硕士学位）,-
+1,8,California Polytechnic State University--San Luis Obispo,加州理工大学圣路易斯奥比斯波分校    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+2,1,Rose-Hulman Institute of Technology,罗斯-霍尔曼理工学院    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+3,4,United States Military Academy at West Point,西点军校    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+4,10,California State Polytechnic University--Pomona,加州理工大学波莫纳分校    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+5,5,Bucknell University,巴克内尔大学    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+6,6,United States Air Force Academy,美国空军学院    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+7,10,Milwaukee School of Engineering,密尔沃基工程学院    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+7,18,Lafayette College,拉斐特学院    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+9,37,California State University--Fullerton,加州州立大学富勒顿分校    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+9,8,Cooper Union for the Advancement of Science and Art,库珀联盟科技艺术学院    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+11,23,California State University--Long Beach,加州州立大学长滩分校    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+11,30,California State University--Los Angeles,加州州立大学洛杉矶分校    ,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+11,12,Ohio Northern University,俄亥俄北方大学,Engineering(工程学-最高硕士学位）,Civil Engineering(土木工程）
+1,8,California Polytechnic State University--San Luis Obispo,加州理工大学圣路易斯奥比斯波分校    ,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+2,1,Rose-Hulman Institute of Technology,罗斯-霍尔曼理工学院    ,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+3,10,California State Polytechnic University--Pomona,加州理工大学波莫纳分校    ,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+4,2,Franklin W. Olin College of Engineering,富兰克林·奥林工程学院    ,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+5,3,Harvey Mudd College,哈维·马德学院    ,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+6,5,Bucknell University,巴克内尔大学    ,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+7,10,Milwaukee School of Engineering,密尔沃基工程学院    ,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+8,23,California State University--Long Beach,加州州立大学长滩分校    ,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+9,15,San Jose State University,圣何塞州立大学    ,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+10,37,California State University--Fullerton,加州州立大学富勒顿分校    ,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+11,30,California State University--Los Angeles,加州州立大学洛杉矶分校    ,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+11,8,Cooper Union for the Advancement of Science and Art,库珀联盟科学与艺术进步学院,Engineering(工程学-最高硕士学位）,Computer Engineering（计算机工程）
+1,1,Rose-Hulman Institute of Technology,罗斯-霍尔曼理工学院    ,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+2,8,California Polytechnic State University--San Luis Obispo,加州理工大学圣路易斯奥比斯波分校    ,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+3,3,Harvey Mudd College,哈维穆德学院    ,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+4,10,California State Polytechnic University--Pomona,加州理工大学波莫纳分校    ,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+5,5,Bucknell University,巴克内尔大学    ,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+5,2,Franklin W. Olin College of Engineering,富兰克林·奥林工程学院    ,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+7,4,United States Military Academy,美国陆军军官学院    ,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+8,6,United States Naval Academy,美国海军学院    ,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+9,6,United States Air Force Academy,美国空军学院    ,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+10,15,San Jose State University,圣何塞州立大学    ,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+11,23,California State University--Long Beach,加州州立大学长滩分校    ,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+11,8,Cooper Union for the Advancement of Science and Art,库珀联盟科学与艺术进步学院,Engineering(工程学-最高硕士学位）,Electrical / Electronic / Communications Engineering（电气/电子/通信工程）
+1,1,Rose-Hulman Institute of Technology,罗斯-霍尔曼理工学院    ,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
+2,8,California Polytechnic State University--San Luis Obispo,加州理工大学圣路易斯奥比斯波分校    ,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
+3,3,Harvey Mudd College,哈维穆德学院    ,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
+4,5,Bucknell University,巴克内尔大学    ,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
+4,2,Franklin W. Olin College of Engineering,富兰克林·奥林工程学院    ,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
+6,6,United States Air Force Academy,美国空军学院    ,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
+6,4,United States Military Academy at West Point,西点军校    ,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
+8,10,California State Polytechnic University--Pomona,加州理工大学波莫纳分校    ,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
+8,6,United States Naval Academy,美国海军学院    ,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
+10,8,Cooper Union for the Advancement of Science and Art,库珀联盟科技艺术学院    ,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
+11,10,Milwaukee School of Engineering,密尔沃基工程学院    ,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
+12,18,Embry-Riddle Aeronautical University--Prescott,恩布里-里德尔航空大学普雷斯科特分校,Engineering(工程学-最高硕士学位）,Mechanical Engineering（机械工程)
